@@ -1,4 +1,4 @@
-# pySpark-Project
+# PySpark-Project
 
 ## project1
 ### MRjob Hadoop
